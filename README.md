@@ -12,3 +12,4 @@ Real 3D Simulation fitting room combines the features of 3D solutions and photo-
 ## Hardware required:
 Kinect v2
 Windows Kinect Adaptor fow Windows
+Unity software
