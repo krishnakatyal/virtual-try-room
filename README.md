@@ -25,18 +25,18 @@ Real 3D Simulation fitting room combines the features of 3D solutions and photo-
 
 ### Settting Up  Kinect
 *Make sure you have latest sdk browser, drivers and A USB 3.0 Port with which you can connect for Kinect V2,connect the Adaptor to Power source and the other end with Kinect.
-Download The SDK Browser and the Drivers
+Download The SDK Browser and the Drivers*
 ### Install unity
 *Select the version of unity you want to install, install Unity hub and visual studio(It gets installed by default)
 
-***[1]Run virtualFittingRoom.exe OR run /Assets/FittingRoom.unity to open it in edit mode.
-***[2]Stand in front of the Kinect sensor and open your arms as T-Pose to be in control.
-***[3]the controllers will be moved depending on the movement of your hands.
-***[4]move the controller to select your gender; male/female.
-***[5]according to your gender a list of clothes and accessories items will be shown in different categories.
-***[6]you can select different items from different categories to be fit in your body.
-***[7]you can resize the item by clicking on plus and minus button.
-***[8]you can change the texture of the item by select one of the texture in the textures list.
+**[1]Run virtualFittingRoom.exe OR run /Assets/FittingRoom.unity to open it in edit mode.**
+**[2]Stand in front of the Kinect sensor and open your arms as T-Pose to be in control.**
+**[3]the controllers will be moved depending on the movement of your hands.**
+**[4]move the controller to select your gender; male/female.**
+**[5]according to your gender a list of clothes and accessories items will be shown in different categories.**
+**[6]you can select different items from different categories to be fit in your body.**
+**[7]you can resize the item by clicking on plus and minus button.**
+**[8]you can change the texture of the item by select one of the texture in the textures list.**
 
 ## Refernces 
 [1]  https://github.com/malakalomari/Virtual-fitting-room
