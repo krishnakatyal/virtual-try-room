@@ -27,7 +27,7 @@ Real 3D Simulation fitting room combines the features of 3D solutions and photo-
 *Make sure you have latest sdk browser, drivers and A USB 3.0 Port with which you can connect for Kinect V2,connect the Adaptor to Power source and the other end with Kinect.
 Download The SDK Browser and the Drivers*
 ### Install unity
-*Select the version of unity you want to install, install Unity hub and visual studio(It gets installed by default)
+*Select the version of unity you want to install, install Unity hub and visual studio(It gets installed by default)*
 
 **[1]Run virtualFittingRoom.exe OR run /Assets/FittingRoom.unity to open it in edit mode.**
 
