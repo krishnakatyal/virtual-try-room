@@ -10,6 +10,6 @@ The size of the customer is predicted using Machine Learning :Weight,Size,Gender
 Real 3D Simulation fitting room combines the features of 3D solutions and photo-accurate fitting rooms. Using both photo and simple body measurements, the solution generates a 3D mannequin, which accurately visualizes customer in chosen apparel items.
 
 ## Hardware required:
-Kinect v2
+Kinect v2.
 Windows Kinect Adaptor fow Windows
-Unity software
+Unity software wi
