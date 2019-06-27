@@ -56,9 +56,9 @@
 
 **[6]_You can select different items from different categories to be fit in your body_.**
 
-**[7]_You can resize the item by clicking on plus and minus button.**
+**[7]_You can resize the item by clicking on plus and minus button_.**
 
-**[8]_You can change the texture of the item by select one of the texture in the textures list.**
+**[8]_You can change the texture of the item by select one of the texture in the textures list_.**
 
 
 ## Refernces 
