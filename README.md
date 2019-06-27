@@ -1,5 +1,6 @@
 #  Virtual fitting room
 
+## This Repository Is Under Construction
 ![Sc0379_BoutiqueHotel_116_wg-2](https://user-images.githubusercontent.com/37455387/60255174-d84adf00-98ec-11e9-9286-4ea2aa11ec3d.jpg)
 
 *This virtual dressing room  is the online equivalent of an in-store changing room. It enables shoppers to try on clothes to check one or more of size, fit or style, but virtually rather than physically.*
@@ -23,11 +24,24 @@ The size of the customer is predicted using Machine Learning :Weight,Size,Gender
 
 ## Getting Started:
 
-### Settting Up  Kinect
+### Settting Up  Kinect And Unity
 *Make sure you have latest sdk browser, drivers and A USB 3.0 Port with which you can connect for Kinect V2,connect the Adaptor to Power source and the other end with Kinect.
 Download The SDK Browser and the Drivers*
-### Install unity
-*Select the version of unity you want to install, install Unity hub and visual studio(It gets installed by default)*
+Select the version of unity you want to install, install Unity hub and visual studio(It gets installed by default)*
+
+
+### Fitting Process
+*Fitting process is done by using Iterative closest point (ICP) algorithm to transform the three dimensional model to the joints of human body.*
+*In the Iterative Closest Point or, in some sources, the Iterative Corresponding Point, one point cloud (vertex cloud), the reference, or target, is kept fixed, while the other one, the source, is transformed to best match the reference. The algorithm iteratively revises the transformation (combination of translation and rotation) needed to minimize an error metric, usually a distance from the source to the reference point cloud, such as the sum of squared differences between the coordinates of the matched pairs. ICP is one of the widely used algorithms in aligning three dimensional models given an initial guess of the rigid body transformation required*
+The algorithm iteratively revises the transformation (combination of translation and rotation) needed to minimize an error metric, usually a distance from the source to the reference point cloud, such as the sum of squared differences between the coordinates of the matched pairs.
+
+*Now, to finally place the model on the user's body, the coordinates of ICP transformation are set to the anchors of model.*
+
+*The following 2 transformational components are then set and passed to Unity:*
+
+*Position: The model is placed on the position of body joints*
+*Rotation: The model is rotated by an angle equal to the angle made by the joints of human body*
+
 
 **[1]Run virtualFittingRoom.exe OR run /Assets/FittingRoom.unity to open it in edit mode.**
 
