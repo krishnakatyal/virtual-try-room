@@ -9,14 +9,17 @@ Real 3D Simulation fitting room combines the features of 3D solutions and photo-
 
 ## Required Software,Hardware And Dependencies Required:
 
-### Kinect v2 with windows adaptor 
+### Kinect v2 With Windows Adaptor And Drivers
+ 
+
+![Kinect-747x309](https://user-images.githubusercontent.com/37455387/60256293-e26ddd00-98ee-11e9-9f33-b8aa3a488851.jpg)
 
 ### Unity 3D.
 ![908c28710b023fe94825ed4c503670d9](https://user-images.githubusercontent.com/37455387/60256291-e1d54680-98ee-11e9-98e1-1a8ed4b4e65a.jpeg)
 
 ### OpenCv DLLs
 
-kinect Drivers
+![OpenCV_Logo](https://user-images.githubusercontent.com/37455387/60256835-efd79700-98ef-11e9-9f4a-6669fac086ba.png)
 
 
 ## Refernces 
