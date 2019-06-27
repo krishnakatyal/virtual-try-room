@@ -21,6 +21,13 @@ Real 3D Simulation fitting room combines the features of 3D solutions and photo-
 
 ![OpenCV_Logo](https://user-images.githubusercontent.com/37455387/60256835-efd79700-98ef-11e9-9f4a-6669fac086ba.png)
 
+## Getting Started:
+
+### Settting Up  Kinect
+Make sure you have latest sdk browser, drivers and A USB 3.0 Port with which you can connect for Kinect V2,connect the Adaptor to Power source and the other end with Kinect.
+Download The SDK Browser and the Drivers
+### Install unity
+Select the version of unity you want to install, install Unity hub and visual studio(It gets installed by default)
 
 ## Refernces 
 [1]  https://github.com/malakalomari/Virtual-fitting-room
