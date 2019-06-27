@@ -44,24 +44,24 @@
 *Rotation: The model is rotated by an angle equal to the angle made by the joints of human body*
 
 
-**[1]Run virtualFittingRoom.exe OR run /Assets/FittingRoom.unity to open it in edit mode.**
+**_[1]Run virtualFittingRoom.exe OR run /Assets/FittingRoom.unity to open it in edit mode._**
 
-**[2]Stand in front of the Kinect sensor and open your arms as T-Pose to be in control.**
+**_[2]Stand in front of the Kinect sensor and open your arms as T-Pose to be in control._**
 
-**[3]the controllers will be moved depending on the movement of your hands.**
+**[3]_The controllers will be moved depending on the movement of your hands_.**
 
-**[4]move the controller to select your gender; male/female.**
+**[4]_Move the controller to select your gender; male/female._**
 
-**[5]according to your gender a list of clothes and accessories items will be shown in different categories.**
+**[5]_According to your gender a list of clothes and accessories items will be shown in different categories_.**
 
-**[6]you can select different items from different categories to be fit in your body.**
+**[6]_You can select different items from different categories to be fit in your body_.**
 
-**[7]you can resize the item by clicking on plus and minus button.**
+**[7]_You can resize the item by clicking on plus and minus button.**
 
-**[8]you can change the texture of the item by select one of the texture in the textures list.**
+**[8]_You can change the texture of the item by select one of the texture in the textures list.**
 
 
 ## Refernces 
 [1]  https://github.com/malakalomari/Virtual-fitting-room
 
-[2] Kinect-Based Virtual Try-on System: A Case Study by Khalil M. Ahmad Yousef, Bassam J. Mohd, and Malak AL-Omari 
+[2] *Kinect-Based Virtual Try-on System: A Case Study by Khalil M. Ahmad Yousef, Bassam J. Mohd, and Malak AL-Omari*
