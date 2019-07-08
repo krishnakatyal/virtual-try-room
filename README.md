@@ -62,7 +62,9 @@
 
 ### Running the software:
 1> Connect the kinect on the 3.0 port.
+
 2> Get all the Required Software Installed.
+
 3> Run virtualFittingRoom.exe
 
 
