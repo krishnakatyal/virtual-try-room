@@ -61,7 +61,13 @@
 **[8]_You can change the texture of the item by select one of the texture in the textures list_.**
 
 ### Running the software:
-1> Connect the kinect on the 3.0 port
+1> Connect the kinect on the 3.0 port.
+2> Get all the Required Software Installed.
+3> Run virtualFittingRoom.exe
+
+
+
+
 ## Refernces 
 [1]  https://github.com/malakalomari/Virtual-fitting-room
 
