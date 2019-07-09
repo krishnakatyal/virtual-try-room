@@ -1,4 +1,4 @@
-#  *Virtual fitting room*
+#  *Virtual Fitting Room*
 
 ## *This Repository Is Under Construction*
 ![Sc0379_BoutiqueHotel_116_wg-2](https://user-images.githubusercontent.com/37455387/60255174-d84adf00-98ec-11e9-9286-4ea2aa11ec3d.jpg)
