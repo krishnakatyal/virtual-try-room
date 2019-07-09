@@ -39,7 +39,7 @@
 *Now, to finally place the model on the user's body, the coordinates of ICP transformation are set to the anchors of model.*
 
 
-Click [Here] to read more about ICP(https://en.wikipedia.org/wiki/Iterative_closest_point)
+To read about ICP Click [Here](https://en.wikipedia.org/wiki/Iterative_closest_point)
 
 *The following 2 transformational components are then set and passed to Unity:*
 
