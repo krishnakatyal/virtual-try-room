@@ -67,7 +67,9 @@
 
 3> Run virtualFittingRoom.exe
 
+### Adding Models 
 
+Models can be  added  by uploading  to /Assets/Models/ and then add them to the unity scene then add DetectJoints.cs script to the model item.
 
 
 ## Refernces 
