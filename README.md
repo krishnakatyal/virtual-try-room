@@ -37,6 +37,7 @@
 *The algorithm iteratively revises the transformation (combination of translation and rotation) needed to minimize an error metric, usually a distance from the source to the reference point cloud, such as the sum of squared differences between the coordinates of the matched pairs.*
 
 *Now, to finally place the model on the user's body, the coordinates of ICP transformation are set to the anchors of model.*
+[Click here to read more about ICP](https://en.wikipedia.org/wiki/Iterative_closest_point)
 
 *The following 2 transformational components are then set and passed to Unity:*
 
